@@ -24,6 +24,11 @@ Split into will split the highlighted portion into lines.
 2. `cmd + shift + l`
 3. now you can move around the cursor
 
+UpperCase and LowerCase
+-----------------------
+- `cmd + k` then `cmd + u` for uppercase
+- `cmd + k` then `cmd + l` for lowercase
+
 Bookmark
 --------
 - `cmd + f2` to bookmark the line
